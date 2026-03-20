@@ -26,7 +26,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4 shadow-sm">
         <div class="container">
             <a class="navbar-brand text-primary" href="<?= base_url('/') ?>">
-                <i class="bi bi-mortarboard-fill"></i> StudentPortal
+                <i class="bi bi-mortarboard-fill"></i> LavishStudentPortal
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -139,8 +139,8 @@
     </div>
 
     <footer class="text-center mt-5 py-4 border-top bg-white">
-        <p class="text-muted mb-0">&copy; <?= date('Y') ?> - <strong>Your Name</strong> - CI4 Practical Exam</p>
-        <small class="text-uppercase text-primary fw-bold" style="font-size: 0.7rem;">Student Management System v1.0</small>
+        <p class="text-muted mb-0">&copy; <?= date('Y') ?> - <strong>LAVISH</strong> - Student Portal</p>
+        <small class="text-uppercase text-primary fw-bold" style="font-size: 0.7rem;">Lavish Student Portal v1.0</small>
     </footer>
 
     <!-- Bootstrap 5 JS Bundle (Includes Popper) -->
